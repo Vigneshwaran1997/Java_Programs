@@ -1,0 +1,981 @@
+﻿sep=,
+"ID","Title","Assigned To","Case ID","Comment","Defects","Elapsed","Estimate","Forecast","In Progress","Milestone","Plan","Plan ID","Priority","References","Run","Run Configuration","Run ID","Section","Section Depth","Section Description","Status","Tested By","Tested On","Type","Version"
+"T34359187","Downloading YJOP and YJOP AVI books in e-readers","","C5330332","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)
+
+Note: unable to download YJOP AVI books.","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Gate 0[Sanity]-YJOP/pDocs","0","","Passed","vignesdr ","3/3/2026 7:45 PM","Functionality",""
+"T34359188","Warm book open for YJOP","","C5330334","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Gate 0[Sanity]-YJOP/pDocs","0","","Passed","vignesdr ","3/3/2026 7:45 PM","Functionality",""
+"T34359189","All Top/bottom Chrome UI elemtents","","C5330335","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Gate 0[Sanity]-YJOP/pDocs","0","","Passed","vignesdr ","3/3/2026 7:49 PM","Functionality",""
+"T34359190","Verify Aa menu","","C5330336","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Gate 0[Sanity]-YJOP/pDocs","0","","Passed","vignesdr ","3/3/2026 7:50 PM","Functionality",""
+"T34359191","Try navigating pages by multiple fast Tap/Swipe Gesture","","C5330337","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Gate 0[Sanity]-YJOP/pDocs","0","","Passed","vignesdr ","3/3/2026 7:50 PM","Functionality",""
+"T34359192","Pinch/Zoom gesture should work to zoom in and zoom out in YJOP book","","C5330338","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Gate 0[Sanity]-YJOP/pDocs","0","","Passed","vignesdr ","3/3/2026 7:51 PM","Functionality",""
+"T34359193","Verify minimap is dismissible","","C5330339","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Gate 0[Sanity]-YJOP/pDocs","0","","Passed","vignesdr ","3/3/2026 7:51 PM","Functionality",""
+"T34359207","Try to send a pDocs YJOP book-various surfaces","","C5330353","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Gate 0[Sanity]-YJOP/pDocs","0","","Passed","vignesdr ","3/3/2026 11:07 PM","Functionality",""
+"T34359194","Customer should be able to add Bookmarks in a YJOP book","","C5330340","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Gate 0[Sanity]-YJOP/pDocs","0","","Passed","vignesdr ","3/3/2026 7:52 PM","Functionality",""
+"T34359195","Verify Delete bookmark","","C5330341","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Gate 0[Sanity]-YJOP/pDocs","0","","Passed","vignesdr ","3/3/2026 7:52 PM","Functionality",""
+"T34359196","Annotations of Text should be created in a YJOP book","","C5330342","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Gate 0[Sanity]-YJOP/pDocs","0","","Passed","vignesdr ","3/3/2026 7:53 PM","Functionality",""
+"T34359197","Verify gestures in YJOP books","","C5330343","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Gate 0[Sanity]-YJOP/pDocs","0","","Passed","vignesdr ","3/3/2026 7:54 PM","Functionality",""
+"T34359198","Invoke PFV-Chrome","","C5330344","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Gate 0[Sanity]-YJOP/pDocs","0","","Passed","vignesdr ","3/3/2026 7:59 PM","Functionality",""
+"T34359199","Navigation in PFV","","C5330345","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Gate 0[Sanity]-YJOP/pDocs","0","","Passed","vignesdr ","3/3/2026 8:03 PM","Functionality",""
+"T34359200","Verify Selection/Highlight/Note( Custom/End/cancel/Update/invert)","","C5330346","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","BAT","","YJOP Regression Testing_ R7 Release build","","R171147","Gate 0[Sanity]-YJOP/pDocs","0","","Passed","vignesdr ","3/3/2026 8:04 PM","Functionality",""
+"T34359201","Perform BEV Navigation","","C5330347","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Gate 0[Sanity]-YJOP/pDocs","0","","Passed","vignesdr ","3/3/2026 8:05 PM","Functionality",""
+"T34359202","Scrubber Bar Navigation in YJOP book","","C5330348","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Gate 0[Sanity]-YJOP/pDocs","0","","Passed","vignesdr ","3/3/2026 8:06 PM","Functionality",""
+"T34359203","Test YJOP/pdocs book with Dark Mode","","C5330349","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Gate 0[Sanity]-YJOP/pDocs","0","","Passed","vignesdr ","3/3/2026 8:08 PM","Functionality",""
+"T34359204","Verify TOC navigation","","C5330350","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Gate 0[Sanity]-YJOP/pDocs","0","","Passed","vignesdr ","3/3/2026 8:10 PM","Functionality",""
+"T34359205","Verify internal and External links in YJOP book","","C5330351","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Gate 0[Sanity]-YJOP/pDocs","0","","Passed","vignesdr ","3/3/2026 8:11 PM","Functionality",""
+"T34359206","Verify search in YJOP books","","C5330352","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Gate 0[Sanity]-YJOP/pDocs","0","","Passed","vignesdr ","3/3/2026 8:14 PM","Functionality",""
+"T34359212","Verify sync in E-readers","","C5330359","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Gate 0[Sanity]-YJOP/pDocs","0","","Passed","vignesdr ","3/3/2026 8:15 PM","Functionality",""
+"T34359208","MRPR/LPR/FPR should sync with with Android and vice versa","","C5330354","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Gate 0[Sanity]-YJOP/pDocs","0","","Passed","vignesdr ","3/3/2026 8:42 PM","Functionality",""
+"T34359209","Annotations [Notes/highlights/bookmarks sync - Across surfaces","","C5330355","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Gate 0[Sanity]-YJOP/pDocs","0","","Passed","vignesdr ","3/3/2026 8:42 PM","Functionality",""
+"T34359210","Voice Over mode [Accessibility]","","C5330357","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Gate 0[Sanity]-YJOP/pDocs","0","","Passed","vignesdr ","3/3/2026 8:53 PM","Functionality",""
+"T34359211","Verify End Actions at end of book","","C5330358","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Gate 0[Sanity]-YJOP/pDocs","0","","Passed","vignesdr ","3/3/2026 8:24 PM","Functionality",""
+"T34359213","No ghosting when  navigating to new page (prev/next)","","C5330362","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Gate 0[Sanity]-YJOP/pDocs","0","","Passed","vignesdr ","3/3/2026 8:39 PM","Functionality",""
+"T34359341","Verify whether crash is observed while navigating PFV/BEV in landscape mode","","C5394725","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P1","","YJOP Regression Testing_ R7 Release build","","R171147","Gate 0[Sanity]-YJOP/pDocs","0","","Passed","vignesdr ","3/3/2026 8:25 PM","Functionality",""
+"T34359340","Inline notes/highlights-creation","","C5330560","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Stylus/Unstructured Annotations","0","","Passed","vignesdr ","3/3/2026 8:27 PM","Functionality",""
+"T34359244","Verify page navigation with inline notes","","C5330404","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","Unprioritized","","YJOP Regression Testing_ R7 Release build","","R171147","Stylus/Unstructured Annotations","0","","Passed","vignesdr ","3/3/2026 8:27 PM","Functionality",""
+"T34359245","Verify internal links after creating strokes and highlights","","C5330407","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Stylus/Unstructured Annotations","0","","Passed","vignesdr ","3/3/2026 8:28 PM","Functionality",""
+"T34359246","Select the fingerPointer and try to select/highlight/note for the text","","C5330408","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Stylus/Unstructured Annotations","0","","Passed","vignesdr ","3/3/2026 8:29 PM","Functionality",""
+"T34359252","Try to send Corrupted and Unsupported PDF to Device and check the user is not able to open the book","","C5330420","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Negative-tc(Rendering)","1","","Passed","vignesdr ","3/3/2026 8:56 PM","Functionality",""
+"T34359253","Check passowrd protected PDF to device the user is not able to open the book.","","C5330421","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Negative-tc(Rendering)","1","","Passed","vignesdr ","3/3/2026 8:56 PM","Functionality",""
+"T34359247","Download and Check the rendering functionalities for a Chinese PDF file that is pushed to the device via STK from PC/Mac","","C5330412","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Other language books","1","","Passed","vignesdr ","3/3/2026 9:00 PM","Functionality",""
+"T34359248","Download and Check the rendering functionalities for a Japanese PDF file that is pushed to the device via STK from Android","","C5330413","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Other language books","1","","Passed","vignesdr ","3/3/2026 9:00 PM","Functionality",""
+"T34359249","Download and Check the rendering functionalities for a Arabic PDF file that is pushed to the device via STK from iOS","","C5330414","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Other language books","1","","Passed","vignesdr ","3/3/2026 9:00 PM","Functionality",""
+"T34359250","Download and Check the rendering functionalities for a Quran PDF file that is pushed to the device via STK from iOS","","C5330415","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Other language books","1","","Passed","vignesdr ","3/3/2026 9:00 PM","Functionality",""
+"T34359251","Download and Check the rendering functionalities for a Indic PDF file that is pushed to the device via STK from PC/Mac","","C5330416","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Other language books","1","","Passed","vignesdr ","3/3/2026 9:00 PM","Functionality",""
+"T34359310","Try to Send HD  book and check rendering in Pdocs YJOP","","C5330522","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Content Validation","1","","Passed","vignesdr ","3/3/2026 9:05 PM","Functionality",""
+"T34359311","Try to Open a low resoltion book and check rendering in Pdocs YJOP","","C5330523","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Content Validation","1","","Passed","vignesdr ","3/3/2026 9:05 PM","Functionality",""
+"T34359312","Push a non friction book and check Rendering different between Source and Pdocs YJOP","","C5330524","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Content Validation","1","","Passed","vignesdr ","3/3/2026 9:06 PM","Functionality",""
+"T34359313","Check the Rendering actions are working as expected for Horizontal and vertical testdata","","C5330525","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Content Validation","1","","Passed","vignesdr ","3/3/2026 9:48 PM","Functionality",""
+"T34359314","Check the Rendering actions are working on Landscape book","","C5330526","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Content Validation","1","","Passed","vignesdr ","3/3/2026 9:07 PM","Functionality",""
+"T34359266","Verify the dictionary definition for the selected the text","","C5330441","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Gate 0","1","","Passed","vignesdr ","3/3/2026 9:11 PM","Functionality",""
+"T34359267","Verify the change in margin options","","C5330442","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Gate 0","1","","Passed","vignesdr ","3/3/2026 9:11 PM","Functionality",""
+"T34359268","Verify the change in device orientations","","C5330443","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Gate 0","1","","Passed","vignesdr ","3/3/2026 9:12 PM","Functionality",""
+"T34359269","Verify navigation in landscape mode","","C5330444","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Gate 0","1","","Passed","vignesdr ","3/3/2026 9:12 PM","Functionality",""
+"T34359270","Verif the Aa menu setting changes in Dark mode","","C5330445","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","Unprioritized","","YJOP Regression Testing_ R7 Release build","","R171147","Gate 0","1","","Passed","vignesdr ","3/3/2026 9:14 PM","Functionality",""
+"T34359271","Verify Bookmark in landscape mode","","C5330446","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P1","","YJOP Regression Testing_ R7 Release build","","R171147","Gate 0","1","","Passed","vignesdr ","3/3/2026 9:15 PM","Functionality",""
+"T34359272","Verify links in YJOP/pDocs book","","C5330447","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Gate 0","1","","Passed","vignesdr ","3/3/2026 9:16 PM","Functionality",""
+"T34359273","Verify zoom in landsape mode","","C5330448","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P1","","YJOP Regression Testing_ R7 Release build","","R171147","Gate 0","1","","Passed","vignesdr ","3/3/2026 9:17 PM","Functionality",""
+"T34359296","Check navigation is proper for footnote content on YJOP books","","C5330506","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Internal Links","2","","Passed","vignesdr ","3/3/2026 9:19 PM","Functionality",""
+"T34359297","Verify internal links after page zoom","","C5330507","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Internal Links","2","","Passed","vignesdr ","3/3/2026 9:19 PM","Functionality",""
+"T34359298","Selection on internal links","","C5330508","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Internal Links","2","","Passed","vignesdr ","3/3/2026 9:21 PM","Functionality",""
+"T34359299","Verify internal link while open and close book","","C5330509","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Internal Links","2","","Passed","vignesdr ","3/3/2026 9:22 PM","Functionality",""
+"T34359300","Check Links are visible Bookmark Preview pane and PFV pane","","C5330510","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Internal Links","2","","Passed","vignesdr ","3/3/2026 9:23 PM","Functionality",""
+"T34359301","Click internal linsk and check  Ghosting effort has been observed at background","","C5330511","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Internal Links","2","","Passed","vignesdr ","3/3/2026 9:25 PM","Functionality",""
+"T34359302","Verify the circular footnotes are working in YJOP book","","C5330512","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P1","","YJOP Regression Testing_ R7 Release build","","R171147","Internal Links","2","","Passed","vignesdr ","3/3/2026 9:26 PM","Functionality",""
+"T34359303","Verify endnotes are working in YJOP book","","C5330513","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P1","","YJOP Regression Testing_ R7 Release build","","R171147","Internal Links","2","","Passed","vignesdr ","3/3/2026 9:28 PM","Functionality",""
+"T34359304","KVG- Make Sure Horizontal lines in internal link not gets over-rided while zoom in/out","","C5330514","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)
+
+Note: unable to download KVG book.","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Internal Links","2","","Blocked","vignesdr ","3/3/2026 9:29 PM","Functionality",""
+"T34359305","KVG- make sure Underline in internal links  should not get extended to its nearby text","","C5330515","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)
+
+Note: unable to download KVG book.","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Internal Links","2","","Blocked","vignesdr ","3/3/2026 9:29 PM","Functionality",""
+"T34359306","KVG- Make Sure Interlinks with and Without underline works as expected","","C5330516","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)
+
+Note: unable to download KVG book.","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Internal Links","2","","Blocked","vignesdr ","3/3/2026 9:29 PM","Functionality",""
+"T34359307","KVG- Open the maths content which has internal and check User can click and navigate the link.","","C5330517","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)
+
+Note: unable to download KVG book.","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Internal Links","2","","Blocked","vignesdr ","3/3/2026 9:29 PM","Functionality",""
+"T34359308","Verify internal link in various sections of page","","C5330519","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)
+
+Note: unable to download KVG book.","","","","","","","","","P1","","YJOP Regression Testing_ R7 Release build","","R171147","Internal Links","2","","Passed","vignesdr ","3/3/2026 9:31 PM","Functionality",""
+"T34359309","Verify Image hyperlink","","C5330521","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Internal Links","2","","Passed","vignesdr ","3/3/2026 9:20 PM","Functionality",""
+"T34359294","Verify E-mail links are not working on the YJOP books","","C5330499","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","External link","2","","Passed","vignesdr ","3/3/2026 9:32 PM","Functionality",""
+"T34359295","Verify External links in  various sections of page","","C5330501","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","Unprioritized","","YJOP Regression Testing_ R7 Release build","","R171147","External link","2","","Passed","vignesdr ","3/3/2026 9:33 PM","Functionality",""
+"T34359214","Verify CAB menu invokes when selecting a text","","C5330363","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Gate0","2","","Passed","vignesdr ","3/3/2026 9:34 PM","Functionality",""
+"T34359215","Verify infocards","","C5330364","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Gate0","2","","Passed","vignesdr ","3/3/2026 9:35 PM","Functionality",""
+"T34359216","Verify Notes features(Cancel/Edit)","","C5330365","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","BAT","","YJOP Regression Testing_ R7 Release build","","R171147","Gate0","2","","Passed","vignesdr ","3/3/2026 9:36 PM","Functionality",""
+"T34359217","Select multiple words/lines in Paragraph","","C5330366","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","BAT","","YJOP Regression Testing_ R7 Release build","","R171147","Gate0","2","","Passed","vignesdr ","3/3/2026 9:37 PM","Functionality",""
+"T34359218","Deleting a existing highlight does not delete the note associated.","","C5330367","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Gate0","2","","Passed","vignesdr ","3/3/2026 9:39 PM","Functionality",""
+"T34359219","Editing Notes with highlight","","C5330368","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Gate0","2","","Passed","vignesdr ","3/3/2026 9:40 PM","Functionality",""
+"T34359220","Highlight/Notes - Page transitions","","C5330369","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Gate0","2","","Passed","vignesdr ","3/3/2026 9:40 PM","Functionality",""
+"T34359221","Check the annotations are rendering in PFV","","C5330371","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Gate0","2","","Passed","vignesdr ","3/3/2026 9:41 PM","Functionality",""
+"T34359222","Verify CAB menu invokes when selecting a already highlighed text - Delete, Note, Share, Search & More(three dot)","","C5330372","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","YJR-39481","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Gate0","2","","Failed","vignesdr ","3/3/2026 9:46 PM","Functionality",""
+"T34359223","Verify Sanity check on other language books","","C5330373","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Gate0","2","","Passed","vignesdr ","3/3/2026 9:47 PM","Functionality",""
+"T34359224","Verify Sanity check on YJOP Rotated pages - Annoations","","C5330374","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)
+
+Note: unable to push YJOP rotated pages book.","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Gate0","2","","Blocked","vignesdr ","3/3/2026 9:48 PM","Functionality",""
+"T34359225","Zoom on the Highlight and notes text and pan over the content","","C5330375","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Gate0","2","","Passed","vignesdr ","3/3/2026 9:50 PM","Functionality",""
+"T34359226","Try to add highlights / notes and check it is reflected in ""notes/Highlight"" menu option.","","C5330377","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Gate0","2","","Passed","vignesdr ","3/3/2026 9:50 PM","Functionality",""
+"T34359227","Try to delete the Highlight and check the Delete option is not shown in ""notes/Highlight"" menu option for the particular text","","C5330378","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Gate0","2","","Passed","vignesdr ","3/3/2026 9:51 PM","Functionality",""
+"T34359228","Try to delete the highlight in the  ""notes/Highlight"" menu option and check highlights are not shown in the page.","","C5330379","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Gate0","2","","Passed","vignesdr ","3/3/2026 9:52 PM","Functionality",""
+"T34359229","Selection, Highlight & note creation - Hyphenation scenarios","","C5330381","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P1","","YJOP Regression Testing_ R7 Release build","","R171147","Functional cases","2","","Passed","vignesdr ","3/3/2026 9:54 PM","Functionality",""
+"T34359230","Selection - List items (bullets, numbers etc)","","C5330382","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P1","","YJOP Regression Testing_ R7 Release build","","R171147","Functional cases","2","","Passed","vignesdr ","3/3/2026 9:55 PM","Functionality",""
+"T34359231","Selection, Highlight & note creation - European or special Characters","","C5330383","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P1","","YJOP Regression Testing_ R7 Release build","","R171147","Functional cases","2","","Passed","vignesdr ","3/3/2026 9:55 PM","Functionality",""
+"T34359232","Should be able to select & highlight Images as well as the text","","C5330384","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P1","","YJOP Regression Testing_ R7 Release build","","R171147","Functional cases","2","","Passed","vignesdr ","3/3/2026 10:06 PM","Functionality",""
+"T34359233","Should be able to select & highlight Links as well as the text","","C5330385","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","Unprioritized","","YJOP Regression Testing_ R7 Release build","","R171147","Functional cases","2","","Passed","vignesdr ","3/3/2026 10:07 PM","Functionality",""
+"T34359234","Verify CAB Menu","","C5330386","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P1","","YJOP Regression Testing_ R7 Release build","","R171147","Functional cases","2","","Passed","vignesdr ","3/3/2026 10:08 PM","Functionality",""
+"T34359235","Selection - Table","","C5330387","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P1","","YJOP Regression Testing_ R7 Release build","","R171147","Functional cases","2","","Passed","vignesdr ","3/3/2026 10:09 PM","Functionality",""
+"T34359236","Selection Highlight and Notes on Cover page","","C5330388","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","Unprioritized","","YJOP Regression Testing_ R7 Release build","","R171147","Functional cases","2","","Passed","vignesdr ","3/3/2026 10:10 PM","Functionality",""
+"T34359237","Check the rendering of Note icon and highlight when changing orientation","","C5330389","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","Unprioritized","","YJOP Regression Testing_ R7 Release build","","R171147","Functional cases","2","","Passed","vignesdr ","3/3/2026 10:12 PM","Functionality",""
+"T34359238","Highlights and Notes should be visible for all contrast settings","","C5330390","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","Unprioritized","","YJOP Regression Testing_ R7 Release build","","R171147","Functional cases","2","","Passed","vignesdr ","3/3/2026 10:12 PM","Functionality",""
+"T34359239","Highlights and Notes should not get cut for different margin settings","","C5330391","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","Unprioritized","","YJOP Regression Testing_ R7 Release build","","R171147","Functional cases","2","","Passed","vignesdr ","3/3/2026 10:13 PM","Functionality",""
+"T34359240","Try only selecting different words/content/links 10 times on a single page","","C5330393","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","Unprioritized","","YJOP Regression Testing_ R7 Release build","","R171147","Functional cases","2","","Passed","vignesdr ","3/3/2026 10:20 PM","Functionality",""
+"T34359241","Zoom in and try to select the last word shown in the page and check CAB menu is displaying properly without any cut.","","C5330400","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","Negative scenarios","2","","Passed","vignesdr ","3/3/2026 10:21 PM","Functionality",""
+"T34359242","Enter more than 1000 charcters in the notes and. try to save it","","C5330401","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P1","","YJOP Regression Testing_ R7 Release build","","R171147","Negative scenarios","2","","Passed","vignesdr ","3/3/2026 10:37 PM","Functionality",""
+"T34359243","Check able to scroll inside the notes field","","C5330402","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P1","","YJOP Regression Testing_ R7 Release build","","R171147","Negative scenarios","2","","Passed","vignesdr ","3/3/2026 10:37 PM","Functionality",""
+"T34359274","Check different margins in portrait and landscape mode","","C5330449","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","Unprioritized","","YJOP Regression Testing_ R7 Release build","","R171147","Margins","1","","Passed","vignesdr ","3/3/2026 10:37 PM","Functionality",""
+"T34359315","Cover page rendering full page in landscape mode - fit width","","C5330532","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","Unprioritized","","YJOP Regression Testing_ R7 Release build","","R171147","Landscape Orientation","1","","Passed","vignesdr ","3/3/2026 10:38 PM","Functionality",""
+"T34359316","Page with text and images rendering in landscape mode - fit width","","C5330533","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","Unprioritized","","YJOP Regression Testing_ R7 Release build","","R171147","Landscape Orientation","1","","Passed","vignesdr ","3/3/2026 10:39 PM","Functionality",""
+"T34359317","You are able to scroll down on page in landscape mode","","C5330534","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","Unprioritized","","YJOP Regression Testing_ R7 Release build","","R171147","Landscape Orientation","1","","Passed","vignesdr ","3/3/2026 10:39 PM","Functionality",""
+"T34359318","Aa menu in Landscape mode should have all UI elements present in the bottom center of the screen","","C5330535","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","Unprioritized","","YJOP Regression Testing_ R7 Release build","","R171147","Landscape Orientation","1","","Passed","vignesdr ","3/3/2026 10:39 PM","Functionality",""
+"T34359254","Check the Contrast Slider option is shown with 4 bar with (+) and (-) Option.","","C5330424","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","Unprioritized","","YJOP Regression Testing_ R7 Release build","","R171147","Contrast Slider","0","","Passed","vignesdr ","3/3/2026 10:41 PM","Functionality",""
+"T34359255","Check user the change  increase and decrease the contrast option.","","C5330425","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","Unprioritized","","YJOP Regression Testing_ R7 Release build","","R171147","Contrast Slider","0","","Passed","vignesdr ","3/3/2026 10:41 PM","Functionality",""
+"T34359256","Verify Text heavy books","","C5330426","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","Unprioritized","","YJOP Regression Testing_ R7 Release build","","R171147","Contrast Slider","0","","Passed","vignesdr ","3/3/2026 10:41 PM","Functionality",""
+"T34359257","Verify Image heavy books","","C5330427","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","Unprioritized","","YJOP Regression Testing_ R7 Release build","","R171147","Contrast Slider","0","","Passed","vignesdr ","3/3/2026 10:42 PM","Functionality",""
+"T34359258","Verify text and image books","","C5330428","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","Unprioritized","","YJOP Regression Testing_ R7 Release build","","R171147","Contrast Slider","0","","Passed","vignesdr ","3/3/2026 10:42 PM","Functionality",""
+"T34359259","Verify Contrast changes in different category books(High/low resolution)","","C5330429","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","Unprioritized","","YJOP Regression Testing_ R7 Release build","","R171147","Contrast Slider","0","","Passed","vignesdr ","3/3/2026 10:42 PM","Functionality",""
+"T34359260","Check the Contrast Slider option is works in Dark mode/light mode","","C5330430","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","Unprioritized","","YJOP Regression Testing_ R7 Release build","","R171147","Contrast Slider","0","","Passed","vignesdr ","3/3/2026 10:44 PM","Functionality",""
+"T34359261","Check the selected contrast slider values are preserved   when Closing and Opening same book","","C5330431","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","Unprioritized","","YJOP Regression Testing_ R7 Release build","","R171147","Contrast Slider","0","","Passed","vignesdr ","3/3/2026 10:45 PM","Functionality",""
+"T34359262","Check the selected constract slider values are preserved   when Closing and Opening Different book (try with both PDF and YJOP; YJOP and different YJOP; YJOP and PDF)","","C5330432","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","Unprioritized","","YJOP Regression Testing_ R7 Release build","","R171147","Contrast Slider","0","","Passed","vignesdr ","3/3/2026 10:46 PM","Functionality",""
+"T34359263","Verify Contrast changes after adding strokes/Highlight","","C5330433","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","Unprioritized","","YJOP Regression Testing_ R7 Release build","","R171147","Contrast Slider","0","","Passed","vignesdr ","3/3/2026 10:48 PM","Functionality",""
+"T34359264","Check Contrast changes in White background  with dark image","","C5330434","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","Unprioritized","","YJOP Regression Testing_ R7 Release build","","R171147","Contrast Slider","0","","Passed","vignesdr ","3/3/2026 10:50 PM","Functionality",""
+"T34359265","Check Contrast changes in dark background with dark image","","C5330436","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","Unprioritized","","YJOP Regression Testing_ R7 Release build","","R171147","Contrast Slider","0","","Passed","vignesdr ","3/3/2026 10:51 PM","Functionality",""
+"T34359276","YJOP- Spinner Loading action","","C5330471","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","BAT_P0","","YJOP Regression Testing_ R7 Release build","","R171147","Gate0","1","","Passed","vignesdr ","3/3/2026 10:53 PM","Functionality",""
+"T34359277","YJOP-Spinner UI behaviour","","C5330472","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","BAT_P0","","YJOP Regression Testing_ R7 Release build","","R171147","Gate0","1","","Passed","vignesdr ","3/3/2026 10:53 PM","Functionality",""
+"T34359278","YJOP-Fast Swipe next/Previous","","C5330473","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","BAT_P0","","YJOP Regression Testing_ R7 Release build","","R171147","Gate0","1","","Passed","vignesdr ","3/3/2026 10:53 PM","Functionality",""
+"T34359279","YJOP-inline-Notes For spinners- Open book  with >3000 strokes","","C5330474","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","BAT_P0","","YJOP Regression Testing_ R7 Release build","","R171147","Gate0","1","","Passed","vignesdr ","3/3/2026 10:54 PM","Functionality",""
+"T34359280","YJOP-Scubber and clik the page","","C5330475","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","BAT_P0","","YJOP Regression Testing_ R7 Release build","","R171147","Gate0","1","","Passed","vignesdr ","3/3/2026 10:55 PM","Functionality",""
+"T34359281","YJOP- PFV navigation and click the page","","C5330476","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","BAT_P0","","YJOP Regression Testing_ R7 Release build","","R171147","Gate0","1","","Passed","vignesdr ","3/3/2026 10:55 PM","Functionality",""
+"T34359282","Pdocs- Heavy book with Four page navigation","","C5330479","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","BAT_P0","","YJOP Regression Testing_ R7 Release build","","R171147","Gate0","1","","Passed","vignesdr ","3/3/2026 10:55 PM","Functionality",""
+"T34359283","Pdocs- Link Navigation in a heavy book","","C5330484","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","BAT_P0","","YJOP Regression Testing_ R7 Release build","","R171147","Gate0","1","","Passed","vignesdr ","3/3/2026 10:58 PM","Functionality",""
+"T34359319","Heavy book with Single page navigation","","C5330539","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","YJOP& pDocs_Spinner","1","","Passed","vignesdr ","3/3/2026 10:58 PM","Functionality",""
+"T34359320","Havey book with Two page navigation","","C5330540","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","YJOP& pDocs_Spinner","1","","Passed","vignesdr ","3/3/2026 10:58 PM","Functionality",""
+"T34359321","Heavy book with Three page navigation","","C5330541","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","YJOP& pDocs_Spinner","1","","Passed","vignesdr ","3/3/2026 10:58 PM","Functionality",""
+"T34359322","Heavy book with Four page navigation","","C5330542","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","YJOP& pDocs_Spinner","1","","Passed","vignesdr ","3/3/2026 10:58 PM","Functionality",""
+"T34359323","Go to Page in a heavy book","","C5330543","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","YJOP& pDocs_Spinner","1","","Passed","vignesdr ","3/3/2026 11:01 PM","Functionality",""
+"T34359324","Click Back to page after go to page.","","C5330544","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","YJOP& pDocs_Spinner","1","","Passed","vignesdr ","3/3/2026 11:02 PM","Functionality",""
+"T34359325","Link validation","","C5330545","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","YJOP& pDocs_Spinner","1","","Passed","vignesdr ","3/3/2026 11:02 PM","Functionality",""
+"T34359326","inline-Notes For spinners -verify navigation to the pages without and with more strokes (>3000 strokes) added from GoTo page","","C5330546","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","YJOP& pDocs_Spinner","1","","Passed","vignesdr ","3/3/2026 11:10 PM","Functionality",""
+"T34359327","inline-Notes For spinners- verify navigation to the pages without and with more strokes (>3000 strokes) added from GoTo Location","","C5330547","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","YJOP& pDocs_Spinner","1","","Passed","vignesdr ","3/3/2026 11:10 PM","Functionality",""
+"T34359328","verify spinner trigger/disappear rendering in Normal mode","","C5330548","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","YJOP& pDocs_Spinner","1","","Passed","vignesdr ","3/3/2026 11:11 PM","Functionality",""
+"T34359329","verify spinner trigger/disappear rendering in Dark mode","","C5330549","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","YJOP& pDocs_Spinner","1","","Passed","vignesdr ","3/3/2026 11:11 PM","Functionality",""
+"T34359330","Bookmarked Page Navigation via Annotation Manager","","C5330550","Device: Calvados, Paloma and Gibson
+
+Calvados Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_calvados_platcs8&build_version=469179.11427&build_variant=NIGHTLY&showfiles=true
+Paloma and Gibson Build Details: https://kbits.build.lab126.a2z.com/?project=juno_features_buddy_build_git_paloma_platpa6&build_version=469181.11429&build_variant=NIGHTLY&showfiles=true
+
+Calvados version: 5.19.4 469179.11427 (4691790000)
+Paloma and Gibson version: 5.19.4 469181.11429 (4691810000)","","","","","","","","","P1","","YJOP Regression Testing_ R7 Release build","","R171147","YJOP& pDocs_Spinner","1","","Passed","vignesdr ","3/3/2026 11:13 PM","Functionality",""
+"T34359331","Zoom the page before the page is fully loaded and check the page loader is shown.","","C5330551","","","","","","","","","","P1","","YJOP Regression Testing_ R7 Release build","","R171147","YJOP& pDocs_Spinner","1","","Untested","","","Functionality",""
+"T34359332","Search Option in a heavy book","","C5330552","","","","","","","","","","P1","","YJOP Regression Testing_ R7 Release build","","R171147","YJOP& pDocs_Spinner","1","","Untested","","","Functionality",""
+"T34359333","Link Navigation in a heavy book","","C5330553","","","","","","","","","","P1","","YJOP Regression Testing_ R7 Release build","","R171147","YJOP& pDocs_Spinner","1","","Untested","","","Functionality",""
+"T34359334","verify navigation to the pages without and with >3000 strokes added from TOC","","C5330554","","","","","","","","","","P1","","YJOP Regression Testing_ R7 Release build","","R171147","YJOP& pDocs_Spinner","1","","Untested","","","Functionality",""
+"T34359335","inline notes- Check the spinners are shown when editing the inline notes","","C5330555","","","","","","","","","","Unprioritized","","YJOP Regression Testing_ R7 Release build","","R171147","YJOP& pDocs_Spinner","1","","Untested","","","Functionality",""
+"T34359336","Check the Chrome bar is accessable when spinner is loading.","","C5330556","","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","YJOP& pDocs_Spinner","1","","Untested","","","Functionality",""
+"T34359337","Sync - Check Spinners are shown when large numbers of stokes gets sync from one device to another device.","","C5330557","","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","YJOP& pDocs_Spinner","1","","Untested","","","Functionality",""
+"T34359338","Try to rotate the device when spinner is loading","","C5330558","","","","","","","","","","P1","","YJOP Regression Testing_ R7 Release build","","R171147","YJOP& pDocs_Spinner","1","","Untested","","","Functionality",""
+"T34359339","Sync- Check Spinner showns clicking MRP/FPR and Go to MRPR/FPR loc from the popup","","C5330559","","","","","","","","","","P1","","YJOP Regression Testing_ R7 Release build","","R171147","YJOP& pDocs_Spinner","1","","Untested","","","Functionality",""
+"T34359284","Check the Spinner are not shown for PDF content","","C5330489","","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","NegativeCases_Spinner","1","","Untested","","","Functionality",""
+"T34359285","Check the Spinner are not shown on Comics, Manga and Quran books.","","C5330490","","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","NegativeCases_Spinner","1","","Untested","","","Functionality",""
+"T34359286","Check the Spinner are not rotate in Anti clock wise during loading","","C5330491","","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","NegativeCases_Spinner","1","","Untested","","","Functionality",""
+"T34359287","Make Sure the spinner is not shown on the loaded page, when trying to navigate to same loaded page.","","C5330492","","","","","","","","","","P0","","YJOP Regression Testing_ R7 Release build","","R171147","NegativeCases_Spinner","1","","Untested","","","Functionality",""
+"T34359288","Make sure Spinner is not shown in bottom or top of the Page. SPinner should be shown in middle of the Page.","","C5330493","","","","","","","","","","P1","","YJOP Regression Testing_ R7 Release build","","R171147","NegativeCases_Spinner","1","","Untested","","","Functionality",""
+"T34359289","Spinner should not display outside of book.","","C5330494","","","","","","","","","","P1","","YJOP Regression Testing_ R7 Release build","","R171147","NegativeCases_Spinner","1","","Untested","","","Functionality",""
+"T34359290","Verify spinner in navigation with inline notes","","C5330495","","","","","","","","","","P1","","YJOP Regression Testing_ R7 Release build","","R171147","NegativeCases_Spinner","1","","Untested","","","Functionality",""
+"T34359291","Check the Spinners are not shown up in PFV and Bookmark Preview Page","","C5330496","","","","","","","","","","Unprioritized","","YJOP Regression Testing_ R7 Release build","","R171147","NegativeCases_Spinner","1","","Untested","","","Functionality",""
+"T34359292","Check when Spinner is loading try to interact with toolbar options & Notebook settings","","C5330497","","","","","","","","","","Unprioritized","","YJOP Regression Testing_ R7 Release build","","R171147","NegativeCases_Spinner","1","","Untested","","","Functionality",""
+"T34359293","When Spinner is loading  try to Click the page and invoke Chrome Option.","","C5330498","","","","","","","","","","P1","","YJOP Regression Testing_ R7 Release build","","R171147","NegativeCases_Spinner","1","","Untested","","","Functionality",""
+"T34359275","Verify exports  option of notes with different margin settings","","C5330452","","","","","","","","","","Unprioritized","","YJOP Regression Testing_ R7 Release build","","R171147","Export","0","","Untested","","","Functionality",""
